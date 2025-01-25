@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @aryan
+- 👀 I’m interested in arduino,resberry pi, open api, python and deep learning nodes and its hidden layers
+- 🌱 I’m currently in inter 1st year learning physics chemisty and mathematics stuff.
+- 💞️ I’m looking to collaborate on tech geek startups.
+- 📫 How to reach me insta- aryan.vivez
+- 😄 Pronouns: He, him, and his
+- ⚡ Fun fact: nothing new
