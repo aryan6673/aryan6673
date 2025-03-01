@@ -2,7 +2,7 @@
 Hi! I'm a 16-year-old student passionate about engineering, web development, and technology. I wear many hats:
 
 🎓 Self-studying science enthusiast, always exploring new ideas.
-💻 Web development agency owner, building scalable digital solutions.
+💻 building scalable digital solutions.
 🔧 Raspberry Pi tinkerer, diving into IoT and practical projects.
 💼 Sales strategist, merging innovation with real-world impact.
 💡 Interests
