@@ -1,4 +1,4 @@
-## 👋 About Me
+##  About Me
 
 Hi! I'm a 16-year-old student passionate about engineering, web development, and technology. I wear many hats:
 
