@@ -2,18 +2,18 @@
 
 Hi! I'm a 16-year-old student passionate about engineering, web development, and technology. I wear many hats:
 
-- 🎓 Self-studying science enthusiast, always exploring new ideas.  
-- 🔧 Raspberry Pi tinkerer, diving into IoT and practical projects.  
+- 🎓 Self-taught science enthusiast  
+- 🔧 Raspberry Pi tinkerer exploring IoT and automation  
 
 ## 💡 Interests
 
-- 🚀 Crafting innovative engineering solutions.  
-- 🔧 Experimenting with Raspberry Pi systems and automation.  
-- 🌐 Building responsive, user-centric websites and apps.  
+- 🚀 Engineering creative solutions  
+- 🌐 Building responsive, user-focused websites  
+- 🔧 Automating with Raspberry Pi  
 
 ## 📈 Current Goals
 
-- 📚 Writing my own book 
-- 🤝 Actively looking for an internship or mentorship opportunity to grow under a skilled professional (open to any guidance — currently searching!)  
+- 📚 Writing my first book  
+- 🤝 Seeking an internship or mentor to grow and learn (open to guidance!)  
 
-Feel free to explore my projects or reach out for collaboration!
+Explore my projects or reach out to collaborate!
