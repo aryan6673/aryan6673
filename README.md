@@ -20,5 +20,5 @@ Explore my projects or reach out to collaborate!
 
 ## 📌 Social Readmes 
 [**Monthly Todo List**](https://github.com/aryan6673/MYTODO)  
-[**Life**](https://github.com/aryan6673/MYTODO)  
+[**Life**](https://github.com/aryan6673/LIFE)  
 
