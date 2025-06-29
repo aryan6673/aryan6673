@@ -19,6 +19,6 @@ Hi! I'm a 16-year-old student passionate about engineering, web development, and
 Explore my projects or reach out to collaborate!
 
 ## 📌 Monthly Mission: June 2025  
-🚀 I'm tracking my current goal here: [**aryan6673/TODO**](https://github.com/aryan6673/TODO)  
+🚀 I'm tracking my current goal here: [**Monthly Todo List**](https://github.com/aryan6673/MYTODO)  
 Let’s see how much I can get done! 💪
 
