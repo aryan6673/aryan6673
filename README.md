@@ -14,7 +14,7 @@ Hi! I'm a 16-year-old student passionate about engineering, web development, and
 ## 📈 Current Goals
 
 - 📚 Working on some MHL hackathons. 
-- 🤝 Seeking an internship or mentor to grow and learn (open to guidance!)
+- 🤝 Volunteering at Hackclub and YIAW (open to guidance!)
   
 ## 📌 Try Clicking here 
 - [**Life**](https://github.com/aryan6673/LIFE)
