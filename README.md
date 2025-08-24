@@ -1,26 +1,5 @@
-##  About Me
+Hi, I’m Aryan—a 16-year-old [high school](https://kvsangathan.nic.in/en/) student from [Delhi](https://en.wikipedia.org/wiki/New_Delhi) who loves building things. I’m a pretty active [open-source contributor](https://github.com/aryan6673?tab=repositories), but most of my work comes through the projects I run myself on [GitHub](https://en.wikipedia.org/wiki/GitHub). One of my projects recently started getting quite a lot of attention, which has been super motivating for me.  
 
-Hi! I'm a 16-year-old student passionate about engineering, web development, and technology. I wear many hats:
+I’m also the founder of the [DeyWeaver Foundation](https://npo.deyweaver.live), a legally registered [501(c)(3)](https://en.wikipedia.org/wiki/501(c)(3)_organization) [nonprofit](https://en.wikipedia.org/wiki/Nonprofit_organization) based in [Los Angeles](https://en.wikipedia.org/wiki/Los_Angeles), now fiscally sponsored by [IFERS](https://ifers.org/). Apart from coding and research, I’ve written my [first book](https://www.amazon.com/Zero-Job-job-without-waiting-college-ebook/dp/B0D57HYFZ5), and I sometimes dive into professional singing (with around 2.5M streams).  
 
-- 🎓 Self-taught science enthusiast  
-- 🔧 Raspberry Pi tinkerer exploring IoT and automation  
-
-## 💡 Interests
-
-- 🚀 Engineering creative solutions  
-- 🌐 Building responsive, user-focused websites  
-- 🔧 Automating with Raspberry Pi  
-
-## 📈 Current Goals
-
-- 📚 Working on some MHL hackathons. 
-- 🤝 Volunteering at Hackclub and YIAW (open to guidance!)
-  
-## 📌 Try Clicking here 
-- [**Life**](https://github.com/aryan6673/LIFE)
-  
-- [**Monthly Todo List**](https://github.com/aryan6673/MYTODO)  
-
-Explore my projects or reach out to collaborate!
-
-
+I also volunteer a lot—I’m currently a Program Manager at [Youth Ideas at Work (YIAW)](https://yiaw.org/) and work on fun projects with [Hack Club](https://hackclub.com/). At heart, I’m just a boy from [India](https://en.wikipedia.org/wiki/India) with millions of dreams, always exploring what’s possible with [science](https://en.wikipedia.org/wiki/Science), [technology](https://en.wikipedia.org/wiki/Technology), and [innovation](https://en.wikipedia.org/wiki/Innovation).  
