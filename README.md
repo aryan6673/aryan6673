@@ -4,4 +4,4 @@ I’m also the founder of the [DeyWeaver Foundation](https://npo.deyweaver.live)
 
 I also volunteer a lot—I’m currently a Program Manager at [Youth Ideas at Work (YIAW)](https://yiaw.org/) and work on fun projects with [Hack Club](https://hackclub.com/). At heart, I’m just a boy from [India](https://en.wikipedia.org/wiki/India) with millions of dreams, always exploring what’s possible with [science](https://en.wikipedia.org/wiki/Science), [technology](https://en.wikipedia.org/wiki/Technology), and [innovation](https://en.wikipedia.org/wiki/Innovation).  Oh, and if you’re curious, I’ve also made a small repo about the [journey of my life](https://github.com/aryan6673/LIFE).
 
-[![Aryan Singh profile views](https://u8views.com/api/v1/github/profiles/172046648/views/day-week-month-total-count.svg)](https://u8views.com/github/aryan6673)
+[![Aryan Singh profile views]()](https://u8views.com/github/aryan6673)
