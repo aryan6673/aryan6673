@@ -12,10 +12,10 @@ I also volunteer a lot. I'm currently a Program Manager at [Youth Ideas at Work 
 
 For the past 2 months, I've been working on Quantum Computers. Just like Python is for classical computers, quantum computers have their own frameworks and languages. I know:
 
-- **Qiskit** (by IBM) — the most beginner-friendly, built on Python
-- **Cirq** (by Google) — also Python-based
-- **Q#** (by Microsoft) — a dedicated quantum programming language
-- **PennyLane** — Quantum machine learning
+- **Qiskit** (by IBM) — the most beginner-friendly, built on Python  
+- **Cirq** (by Google) — also Python-based  
+- **Q#** (by Microsoft) — a dedicated quantum programming language  
+- **PennyLane** — Quantum machine learning  
 
 I write quantum programs mostly in Python, using special libraries, so my Python skills transfer directly. I am one of the first quantum programmers in the world and maybe the only high schooler quantum programmer. :)
 
@@ -27,13 +27,13 @@ I can do mathematical calculations on a quantum computer. I have mathematical co
 
 I can solve complex mathematical problems using:
 
-- **Superposition** (H-gate code) of a Quantum Computer
-- **Entanglement** (two qubits linked together)
+- **[Superposition](https://arxiv.org/abs/quant-ph/9207017)** (H-gate code) of a Quantum Computer  
+- **[Entanglement](https://arxiv.org/abs/quant-ph/9302019)** (two qubits linked together)  
 
 <img align="right" src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10285-1/MediaObjects/41586_2026_10285_Fig1_HTML.png" width="220">
 
-- **Quantum Gates** (like logic gates)
-- **Quantum Circuits** (how you build a quantum program)
+- **[Quantum Gates](https://arxiv.org/abs/quant-ph/9503016)** (like logic gates)  
+- **Quantum Circuits** (how you build a quantum program)  
 
 <br clear="right">
 
@@ -42,10 +42,10 @@ I can solve complex mathematical problems using:
 | | |
 |---|---|
 | <img src="https://miro.medium.com/v2/resize:fit:1400/1*POvHKFcHR0sdyCyDQ33UHw.jpeg" width="100%"> | <img src="https://i.sstatic.net/Abgm9.png" width="100%"> |
-| Coded **Grover's Algorithm** (quantum search, but faster than any classical computer) | Coded **Deutsch-Jozsa Algorithm** (a classic beginner algorithm) |
+| Coded **[Grover's Algorithm](https://arxiv.org/abs/quant-ph/9605043)** (quantum search, but faster than any classical computer) | Coded **[Deutsch-Jozsa Algorithm](https://arxiv.org/abs/quant-ph/9207017)** (a classic beginner algorithm) |
 
-- Implemented **Quantum Teleportation**
+- Implemented **[Quantum Teleportation](https://arxiv.org/abs/quant-ph/9302019)**
 
-I'm currently researching **Quantum Key Distribution** (cryptography) and documenting everything on GitHub. I'll make the repo public as soon as I publish my paper.
+I'm currently researching **Quantum Key Distribution** ([BB84](https://arxiv.org/abs/quant-ph/0205039)) (cryptography) and documenting everything on GitHub. I'll make the repo public as soon as I publish my paper.
 
 </details>
