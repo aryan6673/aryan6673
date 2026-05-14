@@ -12,10 +12,10 @@ I also volunteer a lot. I was a Program Manager at [Youth Ideas at Work (YIAW)](
 
 For the past 2 months, I've been working on Quantum Computers. Just like Python is for classical computers, quantum computers have their own frameworks and languages. I know:
 
-- **Qiskit** (by IBM) — the most beginner-friendly, built on Python
-- **Cirq** (by Google) — also Python-based
-- **Q#** (by Microsoft) — a dedicated quantum programming language
-- **PennyLane** — Quantum machine learning
+- **Qiskit** (by IBM) - the most beginner-friendly, built on Python
+- **Cirq** (by Google) - also Python-based
+- **Q#** (by Microsoft) - a dedicated quantum programming language
+- **PennyLane** - Quantum machine learning
 
 I write quantum programs mostly in Python, using special libraries, so my Python skills transfer directly. I am one of the first quantum programmers in the world and maybe the only high schooler quantum programmer. :)
 
@@ -23,7 +23,7 @@ I write quantum programs mostly in Python, using special libraries, so my Python
 
 <img align="right" src="https://miro.medium.com/v2/resize:fit:948/0*wfWu3GMzy7ZW5piN" width="220">
 
-I can do mathematical calculations on a quantum computer. I have mathematical coding skills for vectors, matrices, and eigenvalues — this is the core of quantum computing. I learned the math from 3Blue1Brown's *"Essence of Linear Algebra"* and Complex Numbers (just the basics works for me right now).
+I can do mathematical calculations on a quantum computer. I have mathematical coding skills for vectors, matrices, and eigenvalues. I learned the math from 3Blue1Brown's *"Essence of Linear Algebra"* and Complex Numbers (just the basics works for me right now).
 
 I can solve complex mathematical problems using:
 
