@@ -4,6 +4,11 @@ I'm also the founder of the [DeyWeaver Foundation](https://github.com/deyweaver)
 
 I also volunteer a lot. I was a Program Manager at [Youth Ideas at Work (YIAW)](https://www.linkedin.com/company/youth-ideas-at-work/) and work on fun projects with [Hack Club](https://hackclub.com/). At heart, I'm just a boy from [India](https://en.wikipedia.org/wiki/India) with millions of dreams, always exploring what's possible with [science](https://en.wikipedia.org/wiki/Science), [technology](https://en.wikipedia.org/wiki/Technology), and [innovation](https://en.wikipedia.org/wiki/Innovation). Oh, and if you're curious, I've also made a small site about the [journey of my life](https://aryan.my).
 
+<img align="right" src="https://cdn.hackclub.com/01a03d07-f029-73d8-adc1-40b3a6c27659/download.gif" width="100">
+
+<details>
+<summary>I Have Spent 92 Hours of My Life Programming a Real IBM Quantum Computer (click here)</summary>
+
 <details>
 <summary>I Have Spent 92 Hours of My Life Programming a Real IBM Quantum Computer (click here)</summary>
 <br>
