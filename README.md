@@ -49,3 +49,20 @@ I can solve complex mathematical problems using:
 I'm currently researching **Quantum Key Distribution** ([BB84](https://arxiv.org/abs/quant-ph/0003004)) (cryptography) and documenting everything on GitHub. I'll make the repo public as soon as I publish my paper.
 
 </details>
+
+<details>
+<summary><strong>Where I’ll Be</strong></summary>
+
+<br clear="right">
+
+
+
+
+| Event | Location | Date | As |
+|---|---|---|---|
+| [Sunbeam Delhi](https://aka.ms/pythonai/oh/links) | Masters' Union | 29 Aug | Volunteer |
+| [Boba Bash Delhi](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/join-us-for-our-mcp-live-%E2%80%94-a-free-livestream-covering-all-things-mcp/4537980) | TBD | 26 Sept | Lead Organiser |
+| [DigitalOcean Meetup Delhi](https://globalai.community/e/bay9vh24) | TBD | 14 Oct | Lead Organiser |
+| [Vercel Meetup Delhi](https://www.wearedevelopers.com/world-congress-north-america/) | TBD | 23 Oct | Lead Organiser |
+
+</details>
