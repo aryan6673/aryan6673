@@ -51,7 +51,7 @@ I'm currently researching **Quantum Key Distribution** ([BB84](https://arxiv.org
 </details>
 
 <details>
-<summary><strong>Where I’ll Be</strong></summary>
+<summary>Where I’ll Be</summary>
 
 <br clear="right">
 
