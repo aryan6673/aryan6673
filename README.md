@@ -41,7 +41,7 @@ I can solve complex mathematical problems using:
 
 | | |
 |---|---|
-| <img src="https://miro.medium.com/v2/resize:fit:1400/1*POvHKFcHR0sdyCyDQ33UHw.jpeg" width="100%"> | <img src="https://i.sstatic.net/Abgm9.png" width="100%"> |
+| <img src="https://miro.medium.com/v2/resize:fit:1400/1*POvHKFcHR0sdyCyDQ33UHw.jpeg" width="100%"> | <img src="https://i.sstatic.net/Abgm9.png/" width="100%"> |
 | Coded **[Grover's Algorithm](https://arxiv.org/abs/quant-ph/9605043)** (quantum search, faster than any classical computer) | Coded **[Deutsch-Jozsa Algorithm](https://arxiv.org/abs/quant-ph/9807012)** (a classic beginner algorithm) |
 
 - Implemented **[Quantum Teleportation](https://arxiv.org/abs/quant-ph/9302019)**
