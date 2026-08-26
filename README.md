@@ -6,8 +6,6 @@ I also volunteer a lot. I was a Program Manager at [Youth Ideas at Work (YIAW)](
 
 <img align="right" src="https://cdn.hackclub.com/01a03d07-f029-73d8-adc1-40b3a6c27659/download.gif" width="100">
 
-<details>
-<summary>I Have Spent 92 Hours of My Life Programming a Real IBM Quantum Computer (click here)</summary>
 
 <details>
 <summary>I Have Spent 92 Hours of My Life Programming a Real IBM Quantum Computer (click here)</summary>
