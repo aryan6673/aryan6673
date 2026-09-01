@@ -66,6 +66,6 @@ I'm currently researching **Quantum Key Distribution** ([BB84](https://arxiv.org
 | [Sunbeam Delhi](https://aka.ms/pythonai/oh/links) | Masters' Union | 29 Aug | Volunteer |
 | [Boba Bash Delhi](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/join-us-for-our-mcp-live-%E2%80%94-a-free-livestream-covering-all-things-mcp/4537980) | TBD | 26 Sept | Lead Organiser |
 | [DigitalOcean Meetup Delhi](https://globalai.community/e/bay9vh24) | TBD | 8 Oct | Lead Organiser |
-| [Vercel Meetup Delhi](https://www.wearedevelopers.com/world-congress-north-america/) | TBD | 15 Oct | Lead Organiser |
+
 
 </details>
