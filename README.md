@@ -65,7 +65,7 @@ I'm currently researching **Quantum Key Distribution** ([BB84](https://arxiv.org
 |---|---|---|---|
 | [Sunbeam Delhi]| Masters' Union | 29 Aug | Volunteer |
 | [Boba Bash Delhi]| TBD | 26 Sept | Lead Organiser |
-| [Hacktoberfest] | TBD | 8 Oct | IDK |
+| [Hacktoberfest] | TBD | IDK | IDK |
 
 
 </details>
